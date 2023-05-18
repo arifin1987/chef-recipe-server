@@ -1,0 +1,282 @@
+[
+      {
+        "id": "1",
+        "chef_picture": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=740&t=st=1683086757~exp=1683087357~hmac=412bd0393a25fe4cb2db39318004ced6fe8ecf062c2d06d66e066b2c9a1297ff",
+        "chef_name": "Li Ming",
+        "years_of_experience": 15,
+        "num_of_recipes": 50,
+        "likes": 1000,
+        "recipes": [
+          {
+            "recipe_name": "Kung Pao Chicken",
+            "ingredients": [
+              "chicken breast",
+              "cornstarch",
+              "soy sauce",
+              "hoisin sauce",
+              "dried red chilies"
+            ],
+            "cooking_method": "1. Cut chicken into small pieces and marinate with cornstarch and soy sauce. \n2. Heat oil in a wok and stir-fry chicken until brown. \n3. Add hoisin sauce and dried red chilies. Stir-fry until chicken is cooked through. \n4. Serve with rice.",
+            "rating": 4.5
+          },
+          {
+            "recipe_name": "Egg Fried Rice",
+            "ingredients": [
+              "rice",
+              "eggs",
+              "carrots",
+              "peas",
+              "scallions"
+            ],
+            "cooking_method": "1. Cook rice and let it cool. \n2. Beat eggs in a bowl. Heat oil in a wok and scramble the eggs. \n3. Add diced carrots and peas to the wok and stir-fry until vegetables are cooked. \n4. Add rice and stir-fry until rice is heated through. \n5. Garnish with chopped scallions.",
+            "rating": 4.2
+          },
+          {
+            "recipe_name": "Hot and Sour Soup",
+            "ingredients": [
+              "chicken broth",
+              "tofu",
+              "mushrooms",
+              "bamboo shoots",
+              "eggs"
+            ],
+            "cooking_method": "1. Bring chicken broth to a boil in a pot. \n2. Add diced tofu, sliced mushrooms, and sliced bamboo shoots. Simmer until vegetables are tender. \n3. Beat eggs in a bowl and slowly pour into the soup, stirring constantly. \n4. Season with vinegar, soy sauce, and white pepper. \n5. Serve hot.",
+            "rating": 4.8
+          }
+        ]
+    },
+      {
+        "id": "2",
+        "chef_picture": "https://img.freepik.com/free-photo/female-chef-holding-wooden-spoon-whisk-rolling-pin-white-uniform-looking-cheery_176474-12639.jpg?w=740&t=st=1683097990~exp=1683098590~hmac=d0650e0086035b6698fb8b2e60c34cd898e51cad323346843519e6aec62b42c8",
+        "chef_name": "Kun li",
+        "years_of_experience": 5,
+        "num_of_recipes": 20,
+        "likes": 100,
+        "recipes": [
+          {
+            "recipe_name": "Kung Pao Chicken",
+            "ingredients": [
+              "chicken breast",
+              "cornstarch",
+              "soy sauce",
+              "hoisin sauce",
+              "dried red chilies"
+            ],
+            "cooking_method": "1. Cut chicken into small pieces and marinate with cornstarch and soy sauce. \n2. Heat oil in a wok and stir-fry chicken until brown. \n3. Add hoisin sauce and dried red chilies. Stir-fry until chicken is cooked through. \n4. Serve with rice.",
+            "rating": 4.5
+          },
+          {
+            "recipe_name": "Egg Fried Rice",
+            "ingredients": [
+              "rice",
+              "eggs",
+              "carrots",
+              "peas",
+              "scallions"
+            ],
+            "cooking_method": "1. Cook rice and let it cool. \n2. Beat eggs in a bowl. Heat oil in a wok and scramble the eggs. \n3. Add diced carrots and peas to the wok and stir-fry until vegetables are cooked. \n4. Add rice and stir-fry until rice is heated through. \n5. Garnish with chopped scallions.",
+            "rating": 4.2
+          },
+          {
+            "recipe_name": "Hot and Sour Soup",
+            "ingredients": [
+              "chicken broth",
+              "tofu",
+              "mushrooms",
+              "bamboo shoots",
+              "eggs"
+            ],
+            "cooking_method": "1. Bring chicken broth to a boil in a pot. \n2. Add diced tofu, sliced mushrooms, and sliced bamboo shoots. Simmer until vegetables are tender. \n3. Beat eggs in a bowl and slowly pour into the soup, stirring constantly. \n4. Season with vinegar, soy sauce, and white pepper. \n5. Serve hot.",
+            "rating": 4.8
+          }
+        ]
+    },
+      {
+        "id": "3",
+        "chef_picture": "https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-standing-with-closed-posture-isolated-orange-wall_141793-101136.jpg?w=740&t=st=1683087011~exp=1683087611~hmac=46dfab00ea7d43b87760c9a1da977c8f9a32652c27552e4e0b9b9a1ec26057e4",
+        "chef_name": "Mao setung",
+        "years_of_experience": 10,
+        "num_of_recipes": 30,
+        "likes": 500,
+        "recipes": [
+          {
+            "recipe_name": "Kung Pao Chicken",
+            "ingredients": [
+              "chicken breast",
+              "cornstarch",
+              "soy sauce",
+              "hoisin sauce",
+              "dried red chilies"
+            ],
+            "cooking_method": "1. Cut chicken into small pieces and marinate with cornstarch and soy sauce. \n2. Heat oil in a wok and stir-fry chicken until brown. \n3. Add hoisin sauce and dried red chilies. Stir-fry until chicken is cooked through. \n4. Serve with rice.",
+            "rating": 4.5
+          },
+          {
+            "recipe_name": "Egg Fried Rice",
+            "ingredients": [
+              "rice",
+              "eggs",
+              "carrots",
+              "peas",
+              "scallions"
+            ],
+            "cooking_method": "1. Cook rice and let it cool. \n2. Beat eggs in a bowl. Heat oil in a wok and scramble the eggs. \n3. Add diced carrots and peas to the wok and stir-fry until vegetables are cooked. \n4. Add rice and stir-fry until rice is heated through. \n5. Garnish with chopped scallions.",
+            "rating": 4.2
+          },
+          {
+            "recipe_name": "Hot and Sour Soup",
+            "ingredients": [
+              "chicken broth",
+              "tofu",
+              "mushrooms",
+              "bamboo shoots",
+              "eggs"
+            ],
+            "cooking_method": "1. Bring chicken broth to a boil in a pot. \n2. Add diced tofu, sliced mushrooms, and sliced bamboo shoots. Simmer until vegetables are tender. \n3. Beat eggs in a bowl and slowly pour into the soup, stirring constantly. \n4. Season with vinegar, soy sauce, and white pepper. \n5. Serve hot.",
+            "rating": 4.8
+          }
+        ]
+    },
+      {
+        "id": "4",
+        "chef_picture": "https://img.freepik.com/premium-photo/smiling-female-chef-with-cut-vegetables-kitchen_13339-42852.jpg?w=740",
+        "chef_name": "Jackie chan",
+        "years_of_experience": 7,
+        "num_of_recipes": 20,
+        "likes": 200,
+        "recipes": [
+          {
+            "recipe_name": "Kung Pao Chicken",
+            "ingredients": [
+              "chicken breast",
+              "cornstarch",
+              "soy sauce",
+              "hoisin sauce",
+              "dried red chilies"
+            ],
+            "cooking_method": "1. Cut chicken into small pieces and marinate with cornstarch and soy sauce. \n2. Heat oil in a wok and stir-fry chicken until brown. \n3. Add hoisin sauce and dried red chilies. Stir-fry until chicken is cooked through. \n4. Serve with rice.",
+            "rating": 4.5
+          },
+          {
+            "recipe_name": "Egg Fried Rice",
+            "ingredients": [
+              "rice",
+              "eggs",
+              "carrots",
+              "peas",
+              "scallions"
+            ],
+            "cooking_method": "1. Cook rice and let it cool. \n2. Beat eggs in a bowl. Heat oil in a wok and scramble the eggs. \n3. Add diced carrots and peas to the wok and stir-fry until vegetables are cooked. \n4. Add rice and stir-fry until rice is heated through. \n5. Garnish with chopped scallions.",
+            "rating": 4.2
+          },
+          {
+            "recipe_name": "Hot and Sour Soup",
+            "ingredients": [
+              "chicken broth",
+              "tofu",
+              "mushrooms",
+              "bamboo shoots",
+              "eggs"
+            ],
+            "cooking_method": "1. Bring chicken broth to a boil in a pot. \n2. Add diced tofu, sliced mushrooms, and sliced bamboo shoots. Simmer until vegetables are tender. \n3. Beat eggs in a bowl and slowly pour into the soup, stirring constantly. \n4. Season with vinegar, soy sauce, and white pepper. \n5. Serve hot.",
+            "rating": 4.8
+          }
+        ]
+    },
+      {
+        "id": "5",
+        "chef_picture": "https://img.freepik.com/premium-photo/happy-male-indian-chef-standing-grey-wall_156779-277.jpg?w=740",
+        "chef_name": "Mang bang",
+        "years_of_experience": 14,
+        "num_of_recipes": 60,
+        "likes": 900,
+        "recipes": [
+          {
+            "recipe_name": "Kung Pao Chicken",
+            "ingredients": [
+              "chicken breast",
+              "cornstarch",
+              "soy sauce",
+              "hoisin sauce",
+              "dried red chilies"
+            ],
+            "cooking_method": "1. Cut chicken into small pieces and marinate with cornstarch and soy sauce. \n2. Heat oil in a wok and stir-fry chicken until brown. \n3. Add hoisin sauce and dried red chilies. Stir-fry until chicken is cooked through. \n4. Serve with rice.",
+            "rating": 4.5
+          },
+          {
+            "recipe_name": "Egg Fried Rice",
+            "ingredients": [
+              "rice",
+              "eggs",
+              "carrots",
+              "peas",
+              "scallions"
+            ],
+            "cooking_method": "1. Cook rice and let it cool. \n2. Beat eggs in a bowl. Heat oil in a wok and scramble the eggs. \n3. Add diced carrots and peas to the wok and stir-fry until vegetables are cooked. \n4. Add rice and stir-fry until rice is heated through. \n5. Garnish with chopped scallions.",
+            "rating": 4.2
+          },
+          {
+            "recipe_name": "Hot and Sour Soup",
+            "ingredients": [
+              "chicken broth",
+              "tofu",
+              "mushrooms",
+              "bamboo shoots",
+              "eggs"
+            ],
+            "cooking_method": "1. Bring chicken broth to a boil in a pot. \n2. Add diced tofu, sliced mushrooms, and sliced bamboo shoots. Simmer until vegetables are tender. \n3. Beat eggs in a bowl and slowly pour into the soup, stirring constantly. \n4. Season with vinegar, soy sauce, and white pepper. \n5. Serve hot.",
+            "rating": 4.8
+          }
+        ]
+    },
+      {
+        "id": "6",
+        "chef_picture": "https://img.freepik.com/free-photo/melted-chocolate-confectioner-with-whisk_1157-47278.jpg?w=740&t=st=1683087038~exp=1683087638~hmac=c72544154899520b91e1ffa003bcd6db9064275808c80170b535f59ef94e34a0",
+        "chef_name": "nakamo kishida",
+        "years_of_experience": 23,
+        "num_of_recipes": 100,
+        "likes": 950,
+        "recipes": [
+          {
+            "recipe_name": "Kung Pao Chicken",
+            "ingredients": [
+              "chicken breast",
+              "cornstarch",
+              "soy sauce",
+              "hoisin sauce",
+              "dried red chilies"
+            ],
+            "cooking_method": "1. Cut chicken into small pieces and marinate with cornstarch and soy sauce. \n2. Heat oil in a wok and stir-fry chicken until brown. \n3. Add hoisin sauce and dried red chilies. Stir-fry until chicken is cooked through. \n4. Serve with rice.",
+            "rating": 4.5
+          },
+          {
+            "recipe_name": "Egg Fried Rice",
+            "ingredients": [
+              "rice",
+              "eggs",
+              "carrots",
+              "peas",
+              "scallions"
+            ],
+            "cooking_method": "1. Cook rice and let it cool. \n2. Beat eggs in a bowl. Heat oil in a wok and scramble the eggs. \n3. Add diced carrots and peas to the wok and stir-fry until vegetables are cooked. \n4. Add rice and stir-fry until rice is heated through. \n5. Garnish with chopped scallions.",
+            "rating": 4.2
+          },
+          {
+            "recipe_name": "Hot and Sour Soup",
+            "ingredients": [
+              "chicken broth",
+              "tofu",
+              "mushrooms",
+              "bamboo shoots",
+              "eggs"
+            ],
+            "cooking_method": "1. Bring chicken broth to a boil in a pot. \n2. Add diced tofu, sliced mushrooms, and sliced bamboo shoots. Simmer until vegetables are tender. \n3. Beat eggs in a bowl and slowly pour into the soup, stirring constantly. \n4. Season with vinegar, soy sauce, and white pepper. \n5. Serve hot.",
+            "rating": 4.8
+          }
+        ]
+    }
+    
+    ]
+      
+      
+  
